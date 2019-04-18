@@ -5,3 +5,4 @@ yellow
 orange
 apple
 grapes
+strawberry
